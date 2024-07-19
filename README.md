@@ -2,9 +2,8 @@
  <h1 align="center">Hi 👋, I'm M Faizan Ali</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mfaizanali2" alt="mfaizanali2" /></a> </p>
 
-<img align="right" src="image-1.png" alt="mfaizanali2" width="300" height="300"/>
+<img align="right" src="image-1.png" alt="mfaizanali2" width="300" height="250"/>
 - 🌱 I’m currently learning **ES6 ,Reactjs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MFaizanali2](https://github.com/MFaizanali2)
@@ -31,3 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mfaizanali2&" alt="mfaizanali2" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mfaizanali2" alt="mfaizanali2" /></a> </p>
