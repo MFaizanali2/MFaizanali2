@@ -4,8 +4,8 @@
 
 
 <img align="right" src="image-1.png" alt="mfaizanali2" width="300" height="250"/>
-- 🌱 I’m currently learning **ES6 ,Reactjs**
-
+- 🌱 I’m a Mern Stack Developer
+- 
 - 👨‍💻 All of my projects are available at [https://github.com/MFaizanali2](https://github.com/MFaizanali2)
 
 - 💬 Ask me about **my latest coding projects and open-source contributions!"**
