@@ -3,7 +3,7 @@
 <h3 align="center">A passionate MERN Stack developer, learning Agentic AI, and deeply passionate about Artificial Intelligence</h3>
 
 
-<img align="right" src="image-1.png" alt="mfaizanali2" width="300" height="250"/>
+<img align="right" src="image.png" alt="mfaizanali2" width="300" height="250"/>
 - 🌱 I’m a MERN Stack Developer currently learning Agentic AI and expanding my expertise in Artificial Intelligence.
 
   
