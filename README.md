@@ -109,11 +109,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mfaizanali2&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mfaizanali2&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mfaizanali2&theme=tokyonight&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mfaizanali2&theme=tokyonight&margin-w=15&no-frame=true" alt="GitHub Trophies" />
 </p>
+
 
