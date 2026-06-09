@@ -1,30 +1,4 @@
-# MFaizanali2
-
-<div align="center">
-  <h1>👋 Hi, I'm M Faizan Ali</h1>
-  <h3>MERN Stack Developer | AI/ML Enthusiast | Building Intelligent Agents & Agentic AI Solutions</h3>
-  
-  <p>
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  </p>
-</div>
-
----
-
-## 🚀 About Me
-
-```
-💻 Full-Stack Developer (MERN Stack)
-🤖 AI/ML & Agentic AI Developer
-🔧 Building intelligent automation workflows
-📚 Constantly learning new technologies
-⚡ Passionate about clean code & scalable solutions
-```
-
-- 🌱 **Currently Learning:** Agentic AI, Advanced AI/ML, and expanding expertise in Artificial Intelligence
+- 🌱 **Currently Learning:** Agentic AI, Advanced AI, and expanding expertise in Artificial Intelligence
 - 👨‍💻 **Open Source:** All my projects are available at [GitHub](https://github.com/MFaizanali2)
 - 🤝 **Open to:** Collaboration on AI projects, freelance opportunities, and innovative ideas
 - 💬 **Ask me about:** MERN Stack, Agentic AI, AI integrations, Web Development
@@ -95,22 +69,22 @@
   </a>
 </p>
 
-### AI/ML & Automation
+### AI & Automation
 <p align="left">
   <a href="https://platform.openai.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" alt="OpenAI" width="40" height="40"/>
   </a>
   <a href="https://ai.google.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d9ac4198e1cd7fbe04ef/google_favicon_48dp.png" alt="Gemini" width="40" height="40"/>
+    <img src="https://seeklogo.com/images/G/google-gemini-logo-A5B5B35E12-seeklogo.com.png" alt="Gemini" width="40" height="40"/>
   </a>
   <a href="https://www.anthropic.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.anthropic.com/favicons/favicon-32x32.png" alt="Claude" width="40" height="40"/>
+    <img src="https://seeklogo.com/images/A/anthropic-logo-4D2456A1F7-seeklogo.com.png" alt="Claude" width="40" height="40"/>
   </a>
   <a href="https://ollama.ai/" target="_blank" rel="noreferrer">
-    <img src="https://ollama.ai/public/ollama.png" alt="Ollama" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/ollama/ollama/main/docs/static/ollama.png" alt="Ollama" width="40" height="40"/>
   </a>
   <a href="https://n8n.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" alt="n8n" width="40" height="40"/>
+    <img src="https://seeklogo.com/images/N/n8n-logo-C0742BA4E1-seeklogo.com.png" alt="n8n" width="40" height="40"/>
   </a>
 </p>
 
@@ -169,7 +143,7 @@
 
 **I'm interested in:**
 - Full-stack development projects
-- AI/ML integration opportunities
+- AI integration opportunities
 - Building intelligent agents and automation solutions
 - Open-source contributions
 - Freelance projects
