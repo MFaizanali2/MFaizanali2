@@ -123,32 +123,32 @@ I'm a **passionate Full-Stack MERN Stack Developer** with a strong focus on **Ar
     <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" alt="OpenAI" width="40" height="40"/>
   </a>
   <a href="https://ai.google.dev/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/G/google-gemini-logo-A5B5B35E12-seeklogo.com.png" alt="Gemini" width="40" height="40"/>
+    <img src="https://www.gstatic.com/devrel-devsite/prod/v1587d4e68920cd4a55bd25441e4c0a5eb23da837b69a9e7f11e4e65bdc75b42b/google_favicon_48dp.png" alt="Gemini" width="40" height="40"/>
   </a>
   <a href="https://www.anthropic.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/A/anthropic-logo-4D2456A1F7-seeklogo.com.png" alt="Claude" width="40" height="40"/>
+    <img src="https://www.anthropic.com/images/favicons/favicon-96x96.png" alt="Claude" width="40" height="40"/>
   </a>
   <a href="https://ollama.ai/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ollama/ollama/main/docs/static/ollama.png" alt="Ollama" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/131185505?s=48&v=4" alt="Ollama" width="40" height="40"/>
   </a>
   <a href="https://n8n.io/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/N/n8n-logo-C0742BA4E1-seeklogo.com.png" alt="n8n" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/35857050?s=48&v=4" alt="n8n" width="40" height="40"/>
   </a>
 </p>
 
 ### Tools & Platforms
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   </a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/>
   </a>
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="netlify" width="40" height="40"/>
   </a>
   <a href="https://opencodeahq.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/65165220?s=200&v=4" alt="OpenCode" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/OpenCodeHQ/opencode/main/logo.png" alt="OpenCode" width="40" height="40"/>
   </a>
 </p>
 
@@ -173,7 +173,7 @@ I'm a **passionate Full-Stack MERN Stack Developer** with a strong focus on **Ar
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mfaizanali2&theme=tokyonight&margin-w=15&no-frame=true&column=8" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mfaizanali2&theme=tokyonight&margin-w=5&no-frame=true" alt="GitHub Trophies" />
 </div>
 
 ---
